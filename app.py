@@ -166,4 +166,4 @@ status=st.empty()
 
 resultados=[]
 for i,sym in enumerate(LISTA):
-    status.text('Buscando '+sym
+    status.text(sym)
